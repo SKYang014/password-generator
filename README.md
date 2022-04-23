@@ -1,17 +1,20 @@
 # Challenge 2
 
-# Portfolio
+# Password Generator
 
-a website that will house my accomplishments throughout the course. I hope to add to it as we continue.
+This site will prompt you with a series of questions about what kind of password you would like
 
 # Built with
 
 -   html
 -   Css
+-   js
 
 # screenshot
 
-![image](https://user-images.githubusercontent.com/98923172/163641535-d5944463-d9c0-47cf-9ab1-2a5c7572683e.png)
+![image](./assets/sc1.JPG)
+![image](./assets/sc2.JPG)
+![image](./assets/sc3.JPG)
 
 # contribution
 
