@@ -106,10 +106,10 @@ var askSpecial = function () {
       console.log("This is the amount of characters left: " + countCharacter)
       generatePassword();
     }
-
+  }
     else {
       generatePassword();
-    }
+    
   }
 }
 
